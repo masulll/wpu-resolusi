@@ -2,6 +2,6 @@ RENCANA KONTEN
 - upload produk di tokopedia dan instagram
 - ngerjain igs ultah
 - ngerjain youtube
-- angular
+- vue
 - react
 - struktur data dasar
