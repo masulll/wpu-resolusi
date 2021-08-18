@@ -2,3 +2,4 @@ RENCANA KONTEN
 - upload produk di tokopedia dan instagram
 - ngerjain igs ultah
 - ngerjain youtube
+- struktur data dasar
